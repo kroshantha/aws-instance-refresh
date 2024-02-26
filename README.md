@@ -1,4 +1,4 @@
-# aws-instance-refresh
+# Aws Instance Refresh
 Provision aws infrastructure with Terrafrom and trigger instance refresh.
 
 ## Prerequisites 
